@@ -1,0 +1,6 @@
+# Dumb Jit
+
+Just an experiment using a shared library to implement JIT like behavior...
+
+In the worst possible way...
+
