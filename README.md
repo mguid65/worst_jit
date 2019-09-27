@@ -1,4 +1,4 @@
-# Dumb Jit
+# Worst Jit
 
 Just an experiment using a shared library to implement JIT like behavior...
 
